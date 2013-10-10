@@ -9,7 +9,7 @@ CONFIG = {
     "ip4": "172.31.0.100",
     "localhost": "127.0.0.1",
     "ip6_prefix": "fd50:0dbc:41f2:4a3c",
-    "localhost6":"::1",
+    "localhost6": "::1",
     "svpn_port": 5800,
     "controller_port": 5801,
     "uid_size": 40,
